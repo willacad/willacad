@@ -1,8 +1,8 @@
-<h1 align="left">Welcome,  I'm William Santos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" ></h1>
+<h1 align="left">Welcome,  I'm William Santos :yin_yang: ></h1>
 
 - 🏋🏻‍♀️ I’m currently working as a Personal Trainer;
 - 🎓 Learning front-end development;
-- 💻 Study Platforms: RocketSeat, OnebiteCode and Curso em vídeo;
+- 💻 Study Platforms: RocketSeat, OnebiteCode and Documentations;
 - 💬 Ask me about anything you prefer;
 - ⚡ Fun facts of 80's 90's ❤ .
 
