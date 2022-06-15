@@ -1,4 +1,4 @@
-<h1 align="left">Welcome,  I'm William Santos :yin_yang: ></h1>
+<h1 align="left">Welcome,  I'm William Santos :yin_yang: </h1>
 
 - 🏋🏻‍♀️ I’m currently working as a Personal Trainer;
 - 🎓 Learning front-end development;
