@@ -1,4 +1,4 @@
-<h1 align="left">Welcome,  I'm William Santos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="left">Welcome,  I'm William Santos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" ></h1>
 
 - 🏋🏻‍♀️ I’m currently working as a Personal Trainer;
 - 🎓 Learning front-end development;
