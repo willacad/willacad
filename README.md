@@ -1,6 +1,5 @@
 <h1 align="left">Welcome,  I'm William Santos :yin_yang: </h1>
 
-- 🏋🏻‍♀️ I’m currently working as a Personal Trainer;
 - 🎓 systems analysis and development student;
 - 📚 Learning front-end development;
 - 💻 Study Platforms: RocketSeat, OnebiteCode and Documentations;
