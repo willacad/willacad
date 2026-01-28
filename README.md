@@ -26,7 +26,8 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/williamsantosdev/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-williamsantos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/linkedin
+"/>
 </a>
 <a href="https://www.instagram.com/william_acad/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-williamsantos-05122A?style=flat&logo=instagram" alt="instagram"/>
