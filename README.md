@@ -1,8 +1,8 @@
 <h1 align="left">Welcome,  I'm William Santos :yin_yang: </h1>
 
-- 🎓 systems analysis and development student;
-- 📚 Learning front-end development;
-- 💻 Study Platforms: RocketSeat, OnebiteCode and Documentations;
+- 🎓 studying AI specialist;
+- 📚 working with creative marketing;
+- 💻 Study Platforms: RocketSeat, OnebiteCode, Alura and Documentations;
 - 💬 Ask me about anything you prefer;
 - ⚡ Fun facts of 80's 90's ❤ .
 
@@ -25,9 +25,6 @@
 ## 🫂 &nbsp;Social Links
 
 <p align="left">
-<a href="https://codepen.io/willacaddev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-williamsantos-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
 <a href="https://www.linkedin.com/in/williamsantosdev/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-williamsantos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
