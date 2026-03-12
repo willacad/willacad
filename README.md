@@ -4,7 +4,8 @@
 - 📚 working with creative marketing;
 - 💻 Study Platforms: SENAI / SCTEC, RocketSeat, Alura and Documentations;
 - 💬 Ask me about anything you prefer;
-- ⚡ Fun facts of 80's 90's ❤ .
+  
+- ⚡ Obs: Perfil em construção! Em breve novos repositórios com foco em projetos de IA;
 
 <br><br>
 
