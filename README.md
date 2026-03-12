@@ -2,7 +2,7 @@
 
 - 🎓 studying AI specialist;
 - 📚 working with creative marketing;
-- 💻 Study Platforms: RocketSeat, OnebiteCode, Alura and Documentations;
+- 💻 Study Platforms: SENAI / SCTEC, RocketSeat, Alura and Documentations;
 - 💬 Ask me about anything you prefer;
 - ⚡ Fun facts of 80's 90's ❤ .
 
